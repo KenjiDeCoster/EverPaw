@@ -27,3 +27,4 @@ setupModal('cvPreviewBtn', 'cvModal', 'cvClose');
 // nieuwe certificaten
 setupModal('teamleadPreviewBtn', 'teamleadModal', 'teamleadClose');
 setupModal('memberPreviewBtn', 'memberModal', 'memberClose');
+
